@@ -1,16 +1,14 @@
 
-
-
 # VOCALOID的起源
 ## VST
-![files/Pasted image 20240507225209.png]
+![files/Pasted image 20240507225209.png](_files/Pasted image 20240507225209.png)
 
 我们的故事从VST开始。
 
 VST由Steinberg Media Technologies于1996年开发。它能在PC或Mac上创建了一个完整、专业的工作室环境。大多数 VST 插件要么是乐器 (VSTi)，要么是效果器 (VSTfx)。 VST 插件通常提供自定义图形用户界面，显示类似于音频硬件上的物理开关和旋钮的控件。这种界面为冷冰冰的工作室计算机辅助音乐创作带来了一些风趣。VST 乐器通过 MIDI 接收数字信息形式的音符，并输出数字音频。效果插件接收数字音频并将其处理到输出。 
 
 除了能对已有声音进行处理以外，VST技术还提供了一种完全不依赖于任何实际乐器的高超演奏技巧而创作**器乐**的可能性。通过调节各种参数，一个人并不需要成为一种乐器的精通者，而只需要对该乐器有较为深入的了解即可创作出可以放在作品里的乐器声音。据说，莫扎特能通过阅读乐谱来直接想象出乐团演奏时的声音；然而在VST技术的加持下，所有人都可以简单地通过计算机来实际地听到乐谱背后的声音。同时，VST的价格相比起实际使用乐团来演奏要低很多，这促进了音乐创作的广泛化和易得化。
-![files/Pasted image 20240507231240.png]
+![files/Pasted image 20240507231240.png](_files/Pasted image 20240507231240.png)
 **这是VST乐器的图片，请连同VST商标插入PPT。注意截取掉知乎水印**
 
 ## VOCALOID: 语音合成
@@ -29,8 +27,8 @@ VOCALOID（日语：ボーカロイド，简称ボカロ，Vocaloid），是日�
 
 初音未来（V2）的音源样本由声优藤田咲提供。这一选择是在考虑过近五百份声音样本后作出的，因为藤田咲的声音“清楚而可爱”。在录音时，藤田咲以“可爱的偶像声线”进行录音，共花费两天时间，每天三小时，录音内容是无意义的罗马字组合（声库录音表）。音源制作的演示乐曲让藤田咲十分惊喜，认为十分可爱。
 
-![files/Pasted image 20240507232447.png]
-![files/Pasted image 20240507232451.png]
+![files/Pasted image 20240507232447.png](_files/Pasted image 20240507232447.png)
+![files/Pasted image 20240507232451.png](_files/Pasted image 20240507232451.png)
 
 **PPT此处应该做一个效果，点一下从上面一张图过度到下面一张，就像我做的那样**
 
@@ -52,13 +50,13 @@ Synthesizer V是由华侃如（Kanru Hua）基于其过去开发之适用于UTAU
 镜音りん　れん
 Vocaloid
 @Crypton
-![files/Pasted image 20240507233430.png]
+![files/Pasted image 20240507233430.png](_files/Pasted image 20240507233430.png)
 
 
 
 可不(音乐的同位体)
 Cevio AI
-![files/Pasted image 20240507233728.png]
+![files/Pasted image 20240507233728.png](_files/Pasted image 20240507233728.png)
 
 # VOCALOID的现状
 

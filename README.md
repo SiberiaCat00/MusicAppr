@@ -1,7 +1,7 @@
 
 # VOCALOID的起源
 ## VST
-![files/Pasted image 20240507225209.png](_files/Pasted image 20240507225209.png)
+![files/Pasted image 20240507225209.png](files/Pasted image 20240507225209.png)
 
 我们的故事从VST开始。
 
